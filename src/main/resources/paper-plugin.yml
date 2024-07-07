@@ -1,0 +1,4 @@
+name: Apocalypse
+version: '${version}'
+main: me.hidden.apocalypse.Apocalypse
+api-version: '1.20'
